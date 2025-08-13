@@ -1,0 +1,15 @@
+--- Bank-Market Dataset ---
+Accuracy:  0.9069
+Precision: 0.6429
+Recall:    0.5133
+F1-Score:  0.5708
+AUC-ROC:   0.9306
+
+--- California-Housing Dataset ---
+RMSE: 48209.6170
+
+--- Iris Dataset ---
+Accuracy:  1.0000
+Precision: 1.0000
+Recall:    1.0000
+F1-Score:  1.0000
