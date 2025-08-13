@@ -1,0 +1,38 @@
+--- Raw Dataset ---
+RMSE: 48209.6170
+
+--- 5% Missing (Imputed by Mean) ---
+RMSE: 48327.0194
+
+--- 5% Missing (Imputed by Median) ---
+RMSE: 49986.1971
+
+--- 5% Missing (Imputed by KNN) ---
+RMSE: 48770.9238
+
+--- 5% Missing (Imputed by MICE) ---
+RMSE: 49358.3170
+
+--- 15% Missing (Imputed by Mean) ---
+RMSE: 50867.7797
+
+--- 15% Missing (Imputed by Median) ---
+RMSE: 50221.7241
+
+--- 15% Missing (Imputed by KNN) ---
+RMSE: 49693.9523
+
+--- 15% Missing (Imputed by MICE) ---
+RMSE: 52219.9778
+
+--- 30% Missing (Imputed by Mean) ---
+RMSE: 54417.7195
+
+--- 30% Missing (Imputed by Median) ---
+RMSE: 54013.7464
+
+--- 30% Missing (Imputed by KNN) ---
+RMSE: 54760.1256
+
+--- 30% Missing (Imputed by MICE) ---
+RMSE: 55435.2136
