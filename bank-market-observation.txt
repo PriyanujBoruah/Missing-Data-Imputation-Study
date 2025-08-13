@@ -1,0 +1,90 @@
+--- Raw Dataset ---
+Accuracy:  0.9069
+Precision: 0.6429
+Recall:    0.5133
+F1-Score:  0.5708
+AUC-ROC:   0.9306
+
+--- 5% Missing (Imputed by Mean) ---
+Accuracy:  0.9042
+Precision: 0.6344
+Recall:    0.4867
+F1-Score:  0.5508
+AUC-ROC:   0.9309
+
+--- 5% Missing (Imputed by Median) ---
+Accuracy:  0.9091
+Precision: 0.6599
+Recall:    0.5087
+F1-Score:  0.5745
+AUC-ROC:   0.9311
+
+--- 5% Missing (Imputed by KNN) ---
+Accuracy:  0.9067
+Precision: 0.6483
+Recall:    0.4950
+F1-Score:  0.5613
+AUC-ROC:   0.9308
+
+--- 5% Missing (Imputed by MICE) ---
+Accuracy:  0.9072
+Precision: 0.6504
+Recall:    0.4995
+F1-Score:  0.5651
+AUC-ROC:   0.9319
+
+--- 15% Missing (Imputed by Mean) ---
+Accuracy:  0.9030
+Precision: 0.6372
+Recall:    0.4555
+F1-Score:  0.5313
+AUC-ROC:   0.9266
+
+--- 15% Missing (Imputed by Median) ---
+Accuracy:  0.9037
+Precision: 0.6372
+Recall:    0.4684
+F1-Score:  0.5399
+AUC-ROC:   0.9271
+
+--- 15% Missing (Imputed by KNN) ---
+Accuracy:  0.9050
+Precision: 0.6461
+Recall:    0.4702
+F1-Score:  0.5443
+AUC-ROC:   0.9285
+
+--- 15% Missing (Imputed by MICE) ---
+Accuracy:  0.9046
+Precision: 0.6579
+Recall:    0.4354
+F1-Score:  0.5240
+AUC-ROC:   0.9305
+
+--- 30% Missing (Imputed by Mean) ---
+Accuracy:  0.9017
+Precision: 0.6135
+Recall:    0.5005
+F1-Score:  0.5512
+AUC-ROC:   0.9232
+
+--- 30% Missing (Imputed by Median) ---
+Accuracy:  0.9017
+Precision: 0.6164
+Recall:    0.4904
+F1-Score:  0.5462
+AUC-ROC:   0.9224
+
+--- 30% Missing (Imputed by KNN) ---
+Accuracy:  0.9014
+Precision: 0.6294
+Recall:    0.4436
+F1-Score:  0.5204
+AUC-ROC:   0.9196
+
+--- 30% Missing (Imputed by MICE) ---
+Accuracy:  0.9067
+Precision: 0.6458
+Recall:    0.5014
+F1-Score:  0.5645
+AUC-ROC:   0.9255
